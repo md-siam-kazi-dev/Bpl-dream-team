@@ -1,14 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-
+import Banner from './component/banner'
+import NavBar from './component/navBar'
+import PlayerMainContainer from './component/player-container'
+import './index.css'
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
-    
+    <NavBar></NavBar>
+    <Banner />
+    <PlayerMainContainer />
      
     </>
   )
