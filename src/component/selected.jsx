@@ -1,6 +1,6 @@
 import { Delete } from "lucide-react";
 
-const Selected = ({selectedPlayer,setSelected,setSelectedPlayer}) => {
+const Selected = ({selectedPlayer,setSelected,setSelectedPlayer,renderCoin}) => {
     console.log(selectedPlayer)
     const renderFunction = async(player) => {
         player.chose = false;
@@ -8,7 +8,7 @@ const Selected = ({selectedPlayer,setSelected,setSelectedPlayer}) => {
         let temp = await selectedPlayer.filter(x => x.id != player.id);
         await setSelectedPlayer(temp);
 
-
+        renderCoin(-player.price)
 
 
        await setSelected(selectedPlayer.length-1)

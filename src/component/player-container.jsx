@@ -16,8 +16,10 @@ const PlayerMainContainer = ({setCoin,coin,setSelectedPlayer,selectedPlayer}) =>
   const renderCoin = (coinValue) => {
     if((coin - coinValue) > 0){
       setCoin(coin - coinValue);
+      return true;
     }else {
-      toast("Not enoungh Coin");
+     
+      return false;
     }
     
     console.log(coin);
@@ -40,7 +42,7 @@ const PlayerMainContainer = ({setCoin,coin,setSelectedPlayer,selectedPlayer}) =>
 
       {btn === 'available'? <Suspense fallback={<p>Loading......</p>}>
         <PlayerCardContainer playerData={playerData} setAvailable={setAvailable} setSelected={setSelected} setCoin={setCoin} renderCoin={renderCoin} setSelectedPlayer = {setSelectedPlayer} selectedPlayer = {selectedPlayer}></PlayerCardContainer>
-      </Suspense> : <Selected setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer} setSelected={setSelected}/>}
+      </Suspense> : <Selected setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer} renderCoin={renderCoin} setSelected={setSelected}/>}
     </div>
   );
 };
