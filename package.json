@@ -1,14 +1,14 @@
 {
-  "homepage": "https://md-siam-kazi-dev.github.io/bpl-dream-team",
+  "name": "bpl-dream-team",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
-  }
-},
+  },
   "dependencies": {
     "lucide-react": "^1.7.0",
     "react": "^19.2.0",
