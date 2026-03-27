@@ -2,6 +2,7 @@ import { Suspense, useState } from "react";
 import PlayerCardContainer from "./playerCardContainer";
 import Selected from "./selected";
 import { toast } from "react-toastify";
+import { BallTriangle } from "react-loader-spinner";
 
 
 const playerData = (fetch("/data.json").then((res) => res.json()) )
@@ -40,7 +41,7 @@ const PlayerMainContainer = ({setCoin,coin,setSelectedPlayer,selectedPlayer}) =>
         </div>
       </div>
 
-      {btn === 'available'? <Suspense fallback={<p>Loading......</p>}>
+      {btn === 'available'? <Suspense fallback={<div className="w-full mx-auto h-60 flex justify-center items-center"><BallTriangle></BallTriangle></div>}>
         <PlayerCardContainer playerData={playerData} setAvailable={setAvailable} setSelected={setSelected} setCoin={setCoin} renderCoin={renderCoin} setSelectedPlayer = {setSelectedPlayer} selectedPlayer = {selectedPlayer}></PlayerCardContainer>
       </Suspense> : <Selected setSelectedPlayer={setSelectedPlayer} selectedPlayer={selectedPlayer} renderCoin={renderCoin} setSelected={setSelected}/>}
     </div>
