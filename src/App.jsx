@@ -6,7 +6,7 @@ import './index.css'
 import { ToastContainer } from 'react-toastify'
 function App() {
   
-  const [coin,setCoin] = useState(244)
+  const [coin,setCoin] = useState(100000)
 
   const [selectedPlayer,setSelectedPlayer] = useState([]);
 

@@ -1,6 +1,7 @@
 import { Suspense, useState } from "react";
 import PlayerCardContainer from "./playerCardContainer";
 import Selected from "./selected";
+import { toast } from "react-toastify";
 
 
 const playerData = (fetch("/data.json").then((res) => res.json()) )
@@ -13,7 +14,12 @@ const PlayerMainContainer = ({setCoin,coin,setSelectedPlayer,selectedPlayer}) =>
   const [btn,setBtn] = useState('available'); 
 
   const renderCoin = (coinValue) => {
-    setCoin(coin - coinValue);
+    if((coin - coinValue) > 0){
+      setCoin(coin - coinValue);
+    }else {
+      toast("Not enoungh Coin");
+    }
+    
     console.log(coin);
   }
 
