@@ -1,4 +1,8 @@
-const NavBar = () => {
+const NavBar = ({coin}) => {
+
+
+
+
   return (
     <div className="navbar border-none bg-base-100 shadow-sm max-w-[1440px] mx-auto">
       <div className="navbar-start">
@@ -67,7 +71,7 @@ const NavBar = () => {
 
       <div className="navbar-end">
         <div className="flex gap-1 font-bold">
-          <span id="coin">0</span>
+          <span id="coin">{coin}</span>
           Coin
           <img src="/assets/Currency.png" alt="Coin" />
         </div>

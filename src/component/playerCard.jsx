@@ -1,10 +1,23 @@
 import { CircleUserRound, Flag } from "lucide-react";
 import { useState } from "react";
+import { toast } from "react-toastify";
 
 
-const PlayerCard = ({player}) => {
+const PlayerCard = ({player,renderCoin,setSelectedPlayer,selectedPlayer}) => {
 
     const [chosed, setChosed] = useState(false);
+
+    const renderFun  = () =>{
+        setChosed(!chosed);
+        renderCoin(price);
+        setSelectedPlayer([...selectedPlayer,player]);
+        player.chose = true;
+        toast(`${player.playerName} selected`)
+        
+        
+    }
+
+    
   
     
     const { playerName,playerType, id, country, batStyle, bowlStyle, rating, imgCdn ,price} = player;
@@ -44,7 +57,7 @@ const PlayerCard = ({player}) => {
 
          {/* {player price } */}
 
-         <div className="flex items-center justify-between"><h5 className="font-bold text-xl">Price: {price}</h5>  <button disabled={chosed} onClick={()=>setChosed(!chosed  )} className="btn disabled:btn-accent  h-auto px-2 py-1">Chose Player</button></div>
+         <div className="flex items-center justify-between"><h5 className="font-bold text-xl">Price: {price}</h5>  <button disabled={player.chose} onClick={renderFun} className="btn disabled:btn-accent  h-auto px-2 py-1">Chose Player</button></div>
 
 
          {/* chose button  */}

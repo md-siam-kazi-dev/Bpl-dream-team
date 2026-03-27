@@ -7,8 +7,9 @@
     "rating": 9.8,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm medium",
-    "price": 1500000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/316600/316605.png"
+    "price": 5000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Virat+Kohli&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 2,
@@ -18,8 +19,9 @@
     "rating": 9.5,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Offbreak",
-    "price": 1450000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317000/317023.png"
+    "price": 4000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Rohit+Sharma&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 3,
@@ -29,8 +31,9 @@
     "rating": 9.1,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320001.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=KL+Rahul&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 4,
@@ -40,8 +43,9 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast-medium",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320002.png"
+    "price": 3000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Hardik+Pandya&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 5,
@@ -51,8 +55,9 @@
     "rating": 9.3,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320003.png"
+    "price": 3500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Jasprit+Bumrah&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 6,
@@ -62,8 +67,9 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320004.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shubman+Gill&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 7,
@@ -73,10 +79,10 @@
     "rating": 9.1,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm orthodox",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320005.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Ravindra+Jadeja&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 8,
     "playerName": "Babar Azam",
@@ -85,8 +91,9 @@
     "rating": 9.7,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Offbreak",
-    "price": 1500000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/319900/319922.png"
+    "price": 4800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Babar+Azam&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 9,
@@ -96,8 +103,9 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320006.png"
+    "price": 3000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mohammad+Rizwan&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 10,
@@ -107,8 +115,9 @@
     "rating": 9.3,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm fast",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320007.png"
+    "price": 3500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shaheen+Afridi&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 11,
@@ -118,8 +127,9 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Legbreak",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320008.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shadab+Khan&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 12,
@@ -129,10 +139,10 @@
     "rating": 8.8,
     "batStyle": "Left-hand bat",
     "bowlStyle": "-",
-    "price": 1150000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320009.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Fakhar+Zaman&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 13,
     "playerName": "Ben Stokes",
@@ -141,8 +151,9 @@
     "rating": 9.6,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Right-arm fast-medium",
-    "price": 1500000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/322700/322701.png"
+    "price": 4500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Ben+Stokes&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 14,
@@ -152,8 +163,9 @@
     "rating": 9.5,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Offbreak",
-    "price": 1450000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320010.png"
+    "price": 4000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Joe+Root&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 15,
@@ -163,8 +175,9 @@
     "rating": 9.4,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320011.png"
+    "price": 3800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Jos+Buttler&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 16,
@@ -174,10 +187,10 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320012.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Jofra+Archer&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 17,
     "playerName": "Kane Williamson",
@@ -186,8 +199,9 @@
     "rating": 9.6,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Offbreak",
-    "price": 1450000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317200/317237.png"
+    "price": 4500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Kane+Williamson&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 18,
@@ -197,8 +211,9 @@
     "rating": 9.0,
     "batStyle": "Left-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320013.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Devon+Conway&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 19,
@@ -208,8 +223,9 @@
     "rating": 9.3,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Left-arm fast",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320014.png"
+    "price": 3500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Trent+Boult&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 20,
@@ -219,10 +235,10 @@
     "rating": 8.8,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm orthodox",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320015.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mitchell+Santner&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 21,
     "playerName": "Steve Smith",
@@ -231,8 +247,9 @@
     "rating": 9.7,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Legbreak",
-    "price": 1500000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317000/317026.png"
+    "price": 4800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Steve+Smith&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 22,
@@ -242,8 +259,9 @@
     "rating": 9.5,
     "batStyle": "Left-hand bat",
     "bowlStyle": "-",
-    "price": 1450000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317000/317025.png"
+    "price": 4000,
+    "imgCdn": "https://ui-avatars.com/api/?name=David+Warner&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 23,
@@ -253,8 +271,9 @@
     "rating": 9.4,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320016.png"
+    "price": 3800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Pat+Cummins&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 24,
@@ -264,10 +283,10 @@
     "rating": 9.1,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm medium",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320017.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mitchell+Marsh&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 25,
     "playerName": "Shakib Al Hasan",
@@ -276,8 +295,9 @@
     "rating": 9.5,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm orthodox",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317300/317314.png"
+    "price": 4000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shakib+Al+Hasan&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 26,
@@ -287,8 +307,9 @@
     "rating": 9.1,
     "batStyle": "Left-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317300/317315.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Tamim+Iqbal&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 27,
@@ -298,8 +319,9 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/317300/317316.png"
+    "price": 3000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mushfiqur+Rahim&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 28,
@@ -309,10 +331,10 @@
     "rating": 9.0,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm fast",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320018.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mustafizur+Rahim&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 29,
     "playerName": "Quinton de Kock",
@@ -321,8 +343,9 @@
     "rating": 9.4,
     "batStyle": "Left-hand bat",
     "bowlStyle": "-",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320019.png"
+    "price": 3800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Quinton+de+Kock&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 30,
@@ -332,8 +355,9 @@
     "rating": 9.5,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Right-arm fast",
-    "price": 1450000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320020.png"
+    "price": 4000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Kagiso+Rabada&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 31,
@@ -343,8 +367,9 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320021.png"
+    "price": 3000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Rassie+van+der+Dussen&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 32,
@@ -354,8 +379,9 @@
     "rating": 9.3,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320022.png"
+    "price": 3500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Anrich+Nortje&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 33,
@@ -365,8 +391,9 @@
     "rating": 9.1,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320023.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Travis+Head&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 34,
@@ -376,8 +403,9 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320024.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Aaron+Finch&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 35,
@@ -387,8 +415,9 @@
     "rating": 9.2,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast-medium",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320025.png"
+    "price": 3000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Josh+Hazlewood&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 36,
@@ -398,8 +427,9 @@
     "rating": 9.1,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm offbreak",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320026.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Glenn+Maxwell&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 37,
@@ -409,8 +439,9 @@
     "rating": 8.9,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm fast-medium",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320027.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=David+Willey&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 38,
@@ -420,8 +451,9 @@
     "rating": 9.0,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm medium",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320028.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Sam+Curran&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 39,
@@ -431,8 +463,9 @@
     "rating": 8.8,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320029.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Jason+Roy&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 40,
@@ -442,10 +475,10 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm offbreak",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320030.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Liam+Livingstone&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 41,
     "playerName": "Rashid Khan",
@@ -454,8 +487,9 @@
     "rating": 9.4,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Legbreak",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320031.png"
+    "price": 3800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Rashid+Khan&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 42,
@@ -465,8 +499,9 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm offbreak",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320032.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mohammad+Nabi&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 43,
@@ -476,8 +511,9 @@
     "rating": 8.8,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320033.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Najibullah+Zadran&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 44,
@@ -487,10 +523,10 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320034.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mohammad+Shahzad&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 45,
     "playerName": "Shivam Dube",
@@ -499,8 +535,9 @@
     "rating": 8.7,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm medium",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320035.png"
+    "price": 500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shivam+Dube&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 46,
@@ -510,8 +547,9 @@
     "rating": 9.3,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Offbreak",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320036.png"
+    "price": 3500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Ravichandran+Ashwin&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 47,
@@ -521,8 +559,9 @@
     "rating": 8.8,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320037.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mayank+Agarwal&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 48,
@@ -532,10 +571,10 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320038.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shreyas+Iyer&background=random&color=fff&size=256",
+    "chose": false
   },
-
   {
     "id": 49,
     "playerName": "Glenn Phillips",
@@ -544,8 +583,9 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm medium",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320039.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Glenn+Phillips&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 50,
@@ -555,8 +595,9 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Legbreak",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320040.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Ish+Sodhi&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 51,
@@ -566,8 +607,9 @@
     "rating": 9.1,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320041.png"
+    "price": 2500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Martin+Guptill&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 52,
@@ -577,8 +619,9 @@
     "rating": 9.0,
     "batStyle": "Left-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320042.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Tom+Latham&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 53,
@@ -588,8 +631,9 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm fast",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320043.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Adam+Milne&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 54,
@@ -599,8 +643,9 @@
     "rating": 8.8,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm medium",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320044.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Colin+de+Grandhomme&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 55,
@@ -610,8 +655,9 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1300000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320045.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Shubman+Gill&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 56,
@@ -621,8 +667,9 @@
     "rating": 9.4,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Legbreak",
-    "price": 1400000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320046.png"
+    "price": 3800,
+    "imgCdn": "https://ui-avatars.com/api/?name=Rashid+Khan&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 57,
@@ -632,8 +679,9 @@
     "rating": 9.0,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm offbreak",
-    "price": 1350000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320047.png"
+    "price": 2000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Mohammad+Nabi&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 58,
@@ -643,8 +691,9 @@
     "rating": 8.8,
     "batStyle": "Right-hand bat",
     "bowlStyle": "-",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320048.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=Najibullah+Zadran&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 59,
@@ -654,8 +703,9 @@
     "rating": 8.9,
     "batStyle": "Right-hand bat",
     "bowlStyle": "Right-arm medium",
-    "price": 1250000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320049.png"
+    "price": 1500,
+    "imgCdn": "https://ui-avatars.com/api/?name=Paul+Stirling&background=random&color=fff&size=256",
+    "chose": false
   },
   {
     "id": 60,
@@ -665,7 +715,8 @@
     "rating": 8.8,
     "batStyle": "Left-hand bat",
     "bowlStyle": "Left-arm orthodox",
-    "price": 1200000,
-    "imgCdn": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/lsci/db/PICTURES/CMS/320000/320050.png"
+    "price": 1000,
+    "imgCdn": "https://ui-avatars.com/api/?name=George+Dockrell&background=random&color=fff&size=256",
+    "chose": false
   }
 ]
